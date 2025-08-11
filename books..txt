@@ -1,0 +1,3 @@
+B001|The Alchemist|Paulo Coelho|HarperOne|1988|Available
+B002|1984|George Orwell|Secker & Warburg|1949|Issued
+B003|Clean Code|Robert C. Martin|Prentice Hall|2008|Available
